@@ -5,7 +5,7 @@
 [![Coverity Scan](https://scan.coverity.com/projects/241/badge.svg)](https://scan.coverity.com/projects/vim)
 
 
-## What is Vim? ##
+## What is this incredible text editor Vim? ##
 
 Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
 features have been added: multi-level undo, syntax highlighting, command line
